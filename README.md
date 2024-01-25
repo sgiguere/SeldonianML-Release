@@ -1,6 +1,6 @@
 # SeldonianML
 
-Python code implementing algorithms that provide high-probability safety guarantees for solving classification, bandit, and off-policy reinforcement learning problems.
+Python code implementing algorithms that provide high-probability safety guarantees for solving classification problems.
 For further details, see our paper, "Preventing undesirable behavior of intelligent machines", Science 2019. 
 
 # Installation
